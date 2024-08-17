@@ -7,7 +7,7 @@
   --dark-grey: #596275;
   --black: #2C3A47; /* El valor de una custom property incluye el espacio en blanco */
   --white: #f5f6fa;
-  --lightGrey: #f0efeb;
+  --lightGrey: #ff4b7e;
   --radius: 10px;
   --card-bg: var(--lightGrey);
 }
