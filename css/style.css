@@ -14,7 +14,7 @@
 
 body{
 
-  background-image: url('/images/background.jpeg');
+  background-image: url('../images/background3.jpg');
   background-size: cover;
   background-position: center;
   --black: #2C3A47;
